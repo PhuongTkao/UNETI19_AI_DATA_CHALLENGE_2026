@@ -1,0 +1,18 @@
+{
+  "v3_basis": "original V2 full train checkpoint",
+  "decision_locked_on": "Selection only",
+  "weights": {
+    "v2": 0.6,
+    "geo": 0.4
+  },
+  "selected_name": "geo40",
+  "audit_applies_to": "pre-refit models, not full-train exported checkpoints",
+  "v2_baseline_model_sha256": "0db635688b7a355b0fc159b0bc172c91f23f05e877aa28ddda86f16561da75a7",
+  "cat_model_file": "cat8_final.cbm",
+  "geo_model_file": "geo_final.txt",
+  "version": "V3",
+  "geo_sha256": "71c3b08f3d6ab1a4b7ef72808c957f0707765c5dd3db2837c0bf66db73a7874b",
+  "geo_rounds": 947,
+  "output_file": "UNETI04_submission_V3.csv",
+  "output_sha256": "f6f92f83a1ba833937fa5723a510c64dbaf9c16808f571181b89c1d99d16ff4e"
+}
